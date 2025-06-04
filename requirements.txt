@@ -1,0 +1,8 @@
+streamlit
+openai
+Pillow
+numpy
+opencv-python
+requests
+matplotlib
+python-dotenv
